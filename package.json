@@ -2,9 +2,7 @@
   "name": "chuck-norris-jokes-client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://valterlima.github.io/chuck_norris",
   "devDependencies": {
-    "gh-pages": "^0.12.0",
     "react-scripts": "0.9.0"
   },
   "dependencies": {
@@ -19,8 +17,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   }
 }
