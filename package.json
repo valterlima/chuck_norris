@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://valterlima.github.io/chuck_norris",
   "devDependencies": {
+    "gh-pages": "^0.12.0",
     "react-scripts": "0.9.0"
   },
   "dependencies": {
