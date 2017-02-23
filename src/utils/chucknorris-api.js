@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { getIdToken } from './AuthService.js';
 
-const BASE_URL = 'http://localhost:3333';
+const BASE_URL = 'https://chuck-norris-api.herokuapp.com';
 
 export { getFoodData, getCelebrityData };
 
